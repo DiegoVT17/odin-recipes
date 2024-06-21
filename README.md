@@ -1,0 +1,1 @@
+This is a simple recipes page that I made, so I can show and practice what I learned so far in the Odin Project free course.
