@@ -1,0 +1,30 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 0;
+  background-image: url("../images/apple.jpg");
+  /* background-repeat: no-repeat; */
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: white;
+  font-size: 50px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+a {
+  text-align: center;
+  display: block;
+  color: white;
+  margin-bottom: 10px;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ccccccc8;
+}
