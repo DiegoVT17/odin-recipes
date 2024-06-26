@@ -1,0 +1,37 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgb(41, 40, 40);
+  color: white;
+}
+
+.title {
+  font-size: 45px;
+  text-align: center;
+  font-style: italic;
+  text-decoration: underline;
+}
+
+.tacos {
+  display: block;
+  margin: 45px auto;
+  width: 40%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.subtitle {
+  font-style: italic;
+  margin-top: 15px;
+}
+
+ul li,
+ol li {
+  margin-top: 10px;
+}
+
+.return-link {
+  display: block;
+  text-align: end;
+  margin-right: 15px;
+  font-size: 19px;
+}
